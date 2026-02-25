@@ -1,4 +1,4 @@
-# PlainJDBC_DAO Repository 🌱
+# plain-jdbc-dao 🌱
 
 A lightweight **Plain JDBC** project illustrating low-level database operations via **Java** and **SQL**.  
 *Experience the fundamentals of relational data access by writing raw queries and mapping them yourself!*
